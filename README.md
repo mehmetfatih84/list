@@ -6,6 +6,6 @@ Bu proje kullanışlı, değişiklik yapılabilen ve görsellik katılmış HTML
 
 Proje içerisinde görselliğin yanında uygulanabilirlik ön planda tutulmuş, kullanıcı deneyimini artıracak düşünce yapısı ile listeye ekleme yapma, silme, değişklik yapma ve listeyi temizleme fonksiyonları aktifleştirilmiştir. 
 Kullanılan Teknolojiler:
-*Javascript
-*CSS3
-*HTML5
+*Javascript <br>
+*CSS3 <br>
+*HTML5 <br>
